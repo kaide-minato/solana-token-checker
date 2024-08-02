@@ -1,0 +1,7 @@
+Error occurred in new Solana token log callback function: {}
+Error occurred in new Solana token log callback function: {}
+Error occurred in new Solana token log callback function: {}
+Error occurred in new Solana token log callback function: {}
+Error occurred in new Solana token log callback function: {}
+Error occurred in new Solana token log callback function: {}
+Error occurred in new Solana token log callback function: {}
